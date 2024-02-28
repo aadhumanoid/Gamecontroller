@@ -1,0 +1,11 @@
+2019.4.10-23.06.43: GC2 1.2
+2019.4.10-23.06.43: League = HL Kid
+2019.4.10-23.06.43: Play-off = false
+2019.4.10-23.06.43: Auto color change = false
+2019.4.10-23.06.43: Using broadcast address 255.255.255.255
+2019.4.10-23.06.43: 6-ALFAROBI vs 7-AL-'AADIYAAT
+2019.4.10-23.06.51: Ready
+2019.4.10-23.06.52: Set
+2019.4.10-23.06.54: Playing
+2019.4.11-01.38.56: Undo 3 States to 6-ALFAROBI vs 7-AL-'AADIYAAT
+2019.4.11-01.38.58: Shutdown GameController

@@ -1,0 +1,10 @@
+2019.4.16-16.05.19: GC2 1.2
+2019.4.16-16.05.19: League = HL Kid
+2019.4.16-16.05.19: Play-off = false
+2019.4.16-16.05.19: Auto color change = false
+2019.4.16-16.05.19: Using broadcast address 255.255.255.255
+2019.4.16-16.05.19: 2-BEEBOT PADJADJARAN vs 3-DEVATA
+2019.4.16-16.05.26: Ready
+2019.4.16-16.05.26: Set
+2019.4.16-16.05.27: Playing
+2019.4.16-17.40.33: Shutdown GameController

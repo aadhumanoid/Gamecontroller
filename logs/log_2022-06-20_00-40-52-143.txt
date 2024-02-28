@@ -1,0 +1,7 @@
+2022.6.20-24.40.52: GC2 1.2
+2022.6.20-24.40.52: League = HL Kid
+2022.6.20-24.40.52: Play-off = false
+2022.6.20-24.40.52: Auto color change = false
+2022.6.20-24.40.52: Using broadcast address 192.168.123.255
+2022.6.20-24.40.52: 5-EWS BASCORRO vs Invisibles
+2022.6.20-24.40.57: Shutdown GameController

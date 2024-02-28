@@ -1,0 +1,10 @@
+2019.6.21-15.45.32: GC2 1.2
+2019.6.21-15.45.32: League = HL Kid
+2019.6.21-15.45.32: Play-off = false
+2019.6.21-15.45.32: Auto color change = false
+2019.6.21-15.45.32: Using broadcast address 255.255.255.255
+2019.6.21-15.45.32: 1-GLADIATOS vs Invisibles
+2019.6.21-15.45.37: Ready
+2019.6.21-15.45.38: Set
+2019.6.21-15.45.38: Playing
+2019.6.30-16.29.48: Shutdown GameController

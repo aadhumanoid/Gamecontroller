@@ -1,0 +1,11 @@
+2022.6.16-16.55.03: GC2 1.2
+2022.6.16-16.55.03: League = HL Kid
+2022.6.16-16.55.03: Play-off = false
+2022.6.16-16.55.03: Auto color change = true
+2022.6.16-16.55.03: Using broadcast address 255.255.255.255
+2022.6.16-16.55.03: 2-BEEBOT PADJADJARAN vs 4-R-SCUAD
+2022.6.16-16.55.21: Ready
+2022.6.16-16.55.22: Set
+2022.6.16-16.55.23: Playing
+2022.6.16-16.55.27: Undo 3 States to 2-BEEBOT PADJADJARAN vs 4-R-SCUAD
+2022.6.16-16.55.28: Shutdown GameController

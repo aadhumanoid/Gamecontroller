@@ -1,0 +1,7 @@
+2018.7.10-14.53.25: GC2 1.2
+2018.7.10-14.53.25: League = HL Kid
+2018.7.10-14.53.25: Play-off = false
+2018.7.10-14.53.25: Auto color change = false
+2018.7.10-14.53.25: Using broadcast address 255.255.255.255
+2018.7.10-14.53.25: 1-BARELANG FC vs 2-MIDUN
+2018.7.10-14.53.31: Shutdown GameController

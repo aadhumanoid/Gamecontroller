@@ -1,0 +1,9 @@
+2022.6.19-21.37.40: GC2 1.2
+2022.6.19-21.37.40: League = HL Kid
+2022.6.19-21.37.40: Play-off = false
+2022.6.19-21.37.40: Auto color change = false
+2022.6.19-21.37.40: Using broadcast address 255.255.255.255
+2022.6.19-21.37.40: 3-DEVATA vs Invisibles
+2022.6.19-21.37.43: Ready
+2022.6.19-21.38.13: Set
+2022.6.19-21.43.11: Undo 2 States to 3-DEVATA vs Invisibles

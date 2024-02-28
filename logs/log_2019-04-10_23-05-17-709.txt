@@ -1,0 +1,11 @@
+2019.4.10-23.05.17: GC2 1.2
+2019.4.10-23.05.17: League = HL Kid
+2019.4.10-23.05.17: Play-off = false
+2019.4.10-23.05.17: Auto color change = false
+2019.4.10-23.05.17: Using broadcast address 255.255.255.255
+2019.4.10-23.05.17: 1-GLADIATOS vs 2-BEEBOT PADJADJARAN
+2019.4.10-23.05.21: Ready
+2019.4.10-23.05.22: Set
+2019.4.10-23.05.23: Playing
+2019.4.10-23.06.17: Finished
+2019.4.10-23.06.22: Shutdown GameController

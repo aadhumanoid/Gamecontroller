@@ -1,0 +1,46 @@
+2022.6.23-13.24.10: GC2 1.2
+2022.6.23-13.24.10: League = HL Kid
+2022.6.23-13.24.10: Play-off = false
+2022.6.23-13.24.10: Auto color change = false
+2022.6.23-13.24.10: Using broadcast address 192.168.0.255
+2022.6.23-13.24.10: 3-DEVATA vs 4-R-SCUAD
+2022.6.23-13.25.15: Ready
+2022.6.23-13.25.43: Set
+2022.6.23-13.25.47: Playing
+2022.6.23-13.30.54: Finished
+2022.6.23-13.31.57: Undo 4 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-13.32.06: Ready
+2022.6.23-13.32.36: Set
+2022.6.23-13.32.42: Playing
+2022.6.23-13.40.05: Finished
+2022.6.23-13.40.20: Undo 4 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-13.42.25: Ready
+2022.6.23-13.42.55: Set
+2022.6.23-13.42.58: Playing
+2022.6.23-13.48.06: Finished
+2022.6.23-13.48.16: Undo 4 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-13.49.09: Ready
+2022.6.23-13.49.39: Set
+2022.6.23-13.49.46: Playing
+2022.6.23-13.50.42: Finished
+2022.6.23-13.50.46: Undo 4 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-13.53.14: Ready
+2022.6.23-13.53.43: Set
+2022.6.23-13.53.44: Playing
+2022.6.23-13.54.57: Finished
+2022.6.23-13.54.59: Undo 4 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-14.03.43: Ready
+2022.6.23-14.04.13: Set
+2022.6.23-14.04.22: Playing
+2022.6.23-14.06.15: Finished
+2022.6.23-14.06.18: Undo 4 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-14.11.18: Ready
+2022.6.23-14.11.46: Set
+2022.6.23-14.11.47: Playing
+2022.6.23-14.14.23: Finished
+2022.6.23-14.14.28: Undo 4 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-14.14.56: Ready
+2022.6.23-14.15.13: Finished
+2022.6.23-14.15.16: Undo 2 States to 3-DEVATA vs 4-R-SCUAD
+2022.6.23-14.38.51: Ready
+2022.6.23-14.38.59: Undo 1 States to 3-DEVATA vs 4-R-SCUAD

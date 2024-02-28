@@ -1,0 +1,15 @@
+2022.6.15-22.12.10: GC2 1.2
+2022.6.15-22.12.10: League = HL Kid
+2022.6.15-22.12.10: Play-off = false
+2022.6.15-22.12.10: Auto color change = false
+2022.6.15-22.12.10: Using broadcast address 255.255.255.255
+2022.6.15-22.12.10: 7-AL-'AADIYAAT vs 5-EWS BASCORRO
+2022.6.15-22.12.13: Ready
+2022.6.15-22.12.14: Set
+2022.6.15-22.12.15: Playing
+2022.6.15-22.12.51: Undo 1 States to Set
+2022.6.15-22.13.01: Undo 2 States to 7-AL-'AADIYAAT vs 5-EWS BASCORRO
+2022.6.15-22.13.16: Ready
+2022.6.15-22.13.19: Set
+2022.6.15-22.13.21: Playing
+2022.6.15-22.14.24: Shutdown GameController

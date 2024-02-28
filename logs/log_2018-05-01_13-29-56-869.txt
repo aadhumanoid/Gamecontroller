@@ -1,0 +1,7 @@
+2018.5.01-13.29.56: GC2 1.2
+2018.5.01-13.29.56: League = HL Kid
+2018.5.01-13.29.56: Play-off = false
+2018.5.01-13.29.56: Auto color change = false
+2018.5.01-13.29.56: Using broadcast address 255.255.255.255
+2018.5.01-13.29.56: 6-ICHIRO vs 7-EROS
+2018.5.01-13.38.05: Shutdown GameController

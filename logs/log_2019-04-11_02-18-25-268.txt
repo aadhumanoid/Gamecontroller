@@ -1,0 +1,9 @@
+2019.4.11-02.18.25: GC2 1.2
+2019.4.11-02.18.25: League = HL Kid
+2019.4.11-02.18.25: Play-off = false
+2019.4.11-02.18.25: Auto color change = false
+2019.4.11-02.18.25: Using broadcast address 255.255.255.255
+2019.4.11-02.18.25: 1-GLADIATOS vs 7-AL-'AADIYAAT
+2019.4.11-02.18.31: Ready
+2019.4.11-02.18.32: Set
+2019.4.11-02.18.32: Playing

@@ -1,0 +1,22 @@
+2023.6.03-23.49.29: GC2 1.2
+2023.6.03-23.49.29: League = HL Kid
+2023.6.03-23.49.29: Play-off = false
+2023.6.03-23.49.29: Auto color change = false
+2023.6.03-23.49.29: Using broadcast address 255.255.255.255
+2023.6.03-23.49.29: 6-ALFAROBI vs 7-AL-'AADIYAAT
+2023.6.03-23.51.13: Ready
+2023.6.03-23.51.24: Undo 1 States to 6-ALFAROBI vs 7-AL-'AADIYAAT
+2023.6.03-23.51.47: Ready
+2023.6.03-23.52.18: Set
+2023.6.03-23.55.43: Undo 2 States to 6-ALFAROBI vs 7-AL-'AADIYAAT
+2023.6.03-23.56.17: Ready
+2023.6.03-23.56.47: Set
+2023.6.03-23.57.14: Undo 2 States to 6-ALFAROBI vs 7-AL-'AADIYAAT
+2023.6.03-23.58.35: Ready
+2023.6.03-23.58.51: Undo 1 States to 6-ALFAROBI vs 7-AL-'AADIYAAT
+2023.6.04-24.00.00: Request for PickUp / Incapable Player Blue 4
+2023.6.04-24.01.20: Unpenalised Blue 4
+2023.6.04-24.01.22: Request for PickUp / Incapable Player Blue 4
+2023.6.04-24.01.43: Ready
+2023.6.04-24.01.56: Undo 4 States to 6-ALFAROBI vs 7-AL-'AADIYAAT
+2023.6.04-24.01.58: Shutdown GameController

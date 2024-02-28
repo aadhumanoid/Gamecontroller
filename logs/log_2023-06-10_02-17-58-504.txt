@@ -1,0 +1,15 @@
+2023.6.10-02.17.58: GC2 1.2
+2023.6.10-02.17.58: League = HL Kid
+2023.6.10-02.17.58: Play-off = false
+2023.6.10-02.17.58: Auto color change = false
+2023.6.10-02.17.58: Using broadcast address 192.168.0.255
+2023.6.10-02.17.58: 7-AL-'AADIYAAT vs Invisibles
+2023.6.10-02.18.38: Ready
+2023.6.10-02.18.42: Set
+2023.6.10-02.18.45: Playing
+2023.6.10-02.19.01: Finished
+2023.6.10-02.19.05: Undo 4 States to 7-AL-'AADIYAAT vs Invisibles
+2023.6.10-02.20.48: Ready
+2023.6.10-02.20.54: Set
+2023.6.10-02.21.20: Playing
+2023.6.10-03.12.15: Undo 3 States to 7-AL-'AADIYAAT vs Invisibles

@@ -1,0 +1,6 @@
+2023.6.13-09.25.43: GC2 1.2
+2023.6.13-09.25.43: League = HL Kid
+2023.6.13-09.25.43: Play-off = false
+2023.6.13-09.25.43: Auto color change = false
+2023.6.13-09.25.43: Using broadcast address 192.168.0.255
+2023.6.13-09.25.43: 4-R-SCUAD vs 6-ALFAROBI

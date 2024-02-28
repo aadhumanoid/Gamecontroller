@@ -1,0 +1,30 @@
+2018.5.10-14.50.02: GC2 1.2
+2018.5.10-14.50.02: League = HL Kid
+2018.5.10-14.50.02: Play-off = false
+2018.5.10-14.50.02: Auto color change = false
+2018.5.10-14.50.02: Using broadcast address 255.255.255.255
+2018.5.10-14.50.02: 1 ELFUTRO vs 2-BARELANG FC
+2018.5.10-14.51.31: Ready
+2018.5.10-14.51.52: Set
+2018.5.10-14.52.05: Playing
+2018.5.10-14.53.27: Request for PickUp / Incapable Player Blue 1
+2018.5.10-14.53.39: Request for PickUp / Incapable Player Red 2
+2018.5.10-14.54.10: Unpenalised Blue 1
+2018.5.10-14.54.15: Unpenalised Red 2
+2018.5.10-14.54.25: Request for Service Blue 3
+2018.5.10-14.54.50: Dropped Ball
+2018.5.10-14.54.50: Ready
+2018.5.10-14.55.04: Unpenalised Blue 3
+2018.5.10-14.55.12: Set
+2018.5.10-14.55.14: Playing
+2018.5.10-14.55.43: Finished
+2018.5.10-14.55.56: 2nd Half
+2018.5.10-14.56.31: Undo 1 States to Finished
+2018.5.10-14.56.32: Undo 1 States to Playing
+2018.5.10-14.56.33: Undo 1 States to Set
+2018.5.10-14.56.34: Undo 1 States to Unpenalised Blue 3
+2018.5.10-14.56.35: Undo 1 States to Dropped Ball
+2018.5.10-14.56.36: Undo 1 States to Request for Service Blue 3
+2018.5.10-14.56.36: Undo 1 States to Unpenalised Red 2
+2018.5.10-14.56.41: Undo 1 States to Unpenalised Blue 1
+2018.5.10-15.11.33: Shutdown GameController

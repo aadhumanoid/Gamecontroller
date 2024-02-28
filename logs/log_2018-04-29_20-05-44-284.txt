@@ -1,0 +1,13 @@
+2018.4.29-20.05.44: GC2 1.2
+2018.4.29-20.05.44: League = HL Kid
+2018.4.29-20.05.44: Play-off = false
+2018.4.29-20.05.44: Auto color change = false
+2018.4.29-20.05.44: Using broadcast address 255.255.255.255
+2018.4.29-20.05.44: AE-Human vs AUTMan
+2018.4.29-20.06.20: Kickoff Red
+2018.4.29-20.06.24: Kickoff Blue
+2018.4.29-20.06.31: Ready
+2018.4.29-20.06.34: Set
+2018.4.29-20.06.36: Playing
+2018.4.29-20.06.42: Finished
+2018.4.29-20.06.46: Shutdown GameController

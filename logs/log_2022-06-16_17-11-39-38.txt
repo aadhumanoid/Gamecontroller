@@ -1,0 +1,7 @@
+2022.6.16-17.11.39: GC2 1.2
+2022.6.16-17.11.39: League = HL Kid
+2022.6.16-17.11.39: Play-off = false
+2022.6.16-17.11.39: Auto color change = false
+2022.6.16-17.11.39: Using broadcast address 255.255.255.255
+2022.6.16-17.11.39: 2-BEEBOT PADJADJARAN vs 4-R-SCUAD
+2022.6.16-21.51.46: Shutdown GameController

@@ -1,0 +1,9 @@
+2019.5.28-20.41.28: GC2 1.2
+2019.5.28-20.41.28: League = HL Kid
+2019.5.28-20.41.28: Play-off = false
+2019.5.28-20.41.28: Auto color change = false
+2019.5.28-20.41.28: Using broadcast address 255.255.255.255
+2019.5.28-20.41.28: 3-DEVATA vs Invisibles
+2019.5.28-20.41.34: Ready
+2019.5.28-20.41.35: Set
+2019.5.28-20.41.36: Playing

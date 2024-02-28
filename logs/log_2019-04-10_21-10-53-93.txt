@@ -1,0 +1,7 @@
+2019.4.10-21.10.53: GC2 1.2
+2019.4.10-21.10.53: League = HL Kid
+2019.4.10-21.10.53: Play-off = false
+2019.4.10-21.10.53: Auto color change = false
+2019.4.10-21.10.53: Using broadcast address 255.255.255.255
+2019.4.10-21.10.53: 7-AL-'AADIYAAT vs 2-BEEBOT PADJADJARAN
+2019.4.10-21.11.02: Shutdown GameController

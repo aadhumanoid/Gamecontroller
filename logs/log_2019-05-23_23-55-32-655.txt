@@ -1,0 +1,9 @@
+2019.5.23-23.55.32: GC2 1.2
+2019.5.23-23.55.32: League = HL Kid
+2019.5.23-23.55.32: Play-off = false
+2019.5.23-23.55.32: Auto color change = false
+2019.5.23-23.55.32: Using broadcast address 255.255.255.255
+2019.5.23-23.55.32: 2-BEEBOT PADJADJARAN vs Invisibles
+2019.5.23-23.55.36: Ready
+2019.5.23-23.55.36: Set
+2019.5.23-23.55.37: Playing

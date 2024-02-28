@@ -1,0 +1,17 @@
+2022.5.11-18.52.41: GC2 1.2
+2022.5.11-18.52.41: League = HL Kid
+2022.5.11-18.52.41: Play-off = false
+2022.5.11-18.52.41: Auto color change = false
+2022.5.11-18.52.41: Using broadcast address 255.255.255.255
+2022.5.11-18.52.41: 7-AL-'AADIYAAT vs 3-DEVATA
+2022.5.11-18.54.35: Ready
+2022.5.11-18.54.38: Set
+2022.5.11-18.55.01: Playing
+2022.5.11-18.55.07: Finished
+2022.5.11-18.55.11: Undo 4 States to 7-AL-'AADIYAAT vs 3-DEVATA
+2022.5.11-18.55.14: Ready
+2022.5.11-18.55.15: Set
+2022.5.11-18.55.28: Playing
+2022.5.11-18.55.32: Finished
+2022.5.11-18.58.03: 2nd Half
+2022.5.11-19.19.23: Shutdown GameController

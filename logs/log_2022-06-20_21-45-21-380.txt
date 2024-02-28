@@ -1,0 +1,24 @@
+2022.6.20-21.45.21: GC2 1.2
+2022.6.20-21.45.21: League = HL Kid
+2022.6.20-21.45.21: Play-off = false
+2022.6.20-21.45.21: Auto color change = false
+2022.6.20-21.45.21: Using broadcast address 192.168.0.255
+2022.6.20-21.45.21: 3-DEVATA vs 6-ALFAROBI
+2022.6.20-21.45.24: Ready
+2022.6.20-21.45.26: Set
+2022.6.20-21.45.28: Playing
+2022.6.20-21.45.34: Finished
+2022.6.20-21.45.40: Undo 4 States to 3-DEVATA vs 6-ALFAROBI
+2022.6.20-21.47.02: Ready
+2022.6.20-21.47.03: Set
+2022.6.20-21.47.43: Playing
+2022.6.20-21.47.53: Undo 3 States to 3-DEVATA vs 6-ALFAROBI
+2022.6.20-21.48.45: Ready
+2022.6.20-21.48.48: Set
+2022.6.20-21.49.45: Playing
+2022.6.20-21.52.44: Undo 3 States to 3-DEVATA vs 6-ALFAROBI
+2022.6.20-21.52.59: Ready
+2022.6.20-21.53.02: Set
+2022.6.20-21.53.27: Playing
+2022.6.21-24.07.32: Finished
+2022.6.21-24.07.36: Undo 4 States to 3-DEVATA vs 6-ALFAROBI

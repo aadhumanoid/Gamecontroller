@@ -1,0 +1,16 @@
+2023.6.06-21.43.57: GC2 1.2
+2023.6.06-21.43.57: League = HL Kid
+2023.6.06-21.43.57: Play-off = false
+2023.6.06-21.43.57: Auto color change = false
+2023.6.06-21.43.57: Using broadcast address 255.255.255.255
+2023.6.06-21.43.57: 4-R-SCUAD vs 6-ALFAROBI
+2023.6.06-21.46.57: Ready
+2023.6.06-21.47.00: Set
+2023.6.06-21.47.03: Playing
+2023.6.06-21.51.12: Undo 3 States to 4-R-SCUAD vs 6-ALFAROBI
+2023.6.06-21.53.03: Ready
+2023.6.06-21.53.33: Set
+2023.6.06-21.53.51: Playing
+2023.6.06-21.54.55: Finished
+2023.6.06-21.57.25: 2nd Half
+2023.6.06-21.57.34: Shutdown GameController

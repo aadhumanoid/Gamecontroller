@@ -1,0 +1,9 @@
+2019.5.15-14.13.06: GC2 1.2
+2019.5.15-14.13.06: League = HL Kid
+2019.5.15-14.13.06: Play-off = false
+2019.5.15-14.13.06: Auto color change = false
+2019.5.15-14.13.06: Using broadcast address 255.255.255.255
+2019.5.15-14.13.06: 1-GLADIATOS vs Invisibles
+2019.5.15-14.13.11: Ready
+2019.5.15-14.13.11: Set
+2019.5.15-14.13.11: Playing

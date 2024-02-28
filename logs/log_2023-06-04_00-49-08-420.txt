@@ -1,0 +1,10 @@
+2023.6.04-24.49.08: GC2 1.2
+2023.6.04-24.49.08: League = HL Kid
+2023.6.04-24.49.08: Play-off = false
+2023.6.04-24.49.08: Auto color change = false
+2023.6.04-24.49.08: Using broadcast address 255.255.255.255
+2023.6.04-24.49.08: 3-DEVATA vs 4-R-SCUAD
+2023.6.04-24.51.17: Ready
+2023.6.04-24.51.47: Set
+2023.6.04-24.52.10: Playing
+2023.6.04-24.53.11: Shutdown GameController

@@ -1,0 +1,7 @@
+2018.4.29-20.13.21: GC2 1.2
+2018.4.29-20.13.21: League = HL Kid
+2018.4.29-20.13.21: Play-off = false
+2018.4.29-20.13.21: Auto color change = false
+2018.4.29-20.13.21: Using broadcast address 255.255.255.255
+2018.4.29-20.13.21: 9-ATOM vs 8-BLUEHUMAN8
+2018.4.29-20.13.29: Shutdown GameController

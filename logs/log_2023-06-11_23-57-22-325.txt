@@ -1,0 +1,6 @@
+2023.6.11-23.57.22: GC2 1.2
+2023.6.11-23.57.22: League = HL Kid
+2023.6.11-23.57.22: Play-off = false
+2023.6.11-23.57.22: Auto color change = false
+2023.6.11-23.57.22: Using broadcast address 255.255.255.255
+2023.6.11-23.57.22: 3-DEVATA vs 1-GLADIATOS

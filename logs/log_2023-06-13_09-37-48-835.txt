@@ -1,0 +1,6 @@
+2023.6.13-09.37.48: GC2 1.2
+2023.6.13-09.37.48: League = HL Kid
+2023.6.13-09.37.48: Play-off = false
+2023.6.13-09.37.48: Auto color change = false
+2023.6.13-09.37.48: Using broadcast address 255.255.255.255
+2023.6.13-09.37.48: 2-BEEBOT PADJADJARAN vs 5-EWS BASCORRO

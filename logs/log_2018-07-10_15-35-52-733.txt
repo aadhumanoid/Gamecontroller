@@ -1,0 +1,12 @@
+2018.7.10-15.35.52: GC2 1.2
+2018.7.10-15.35.52: League = HL Kid
+2018.7.10-15.35.52: Play-off = false
+2018.7.10-15.35.52: Auto color change = false
+2018.7.10-15.35.52: Using broadcast address 255.255.255.255
+2018.7.10-15.35.52: 2-MIDUN vs 5-ALFAROBI
+2018.7.10-15.35.58: Ready
+2018.7.10-15.35.59: Set
+2018.7.10-15.36.00: Playing
+2018.7.10-15.36.03: Request for PickUp / Incapable Player Blue 4
+2018.7.10-15.36.05: Request for Service Red 3
+2018.7.10-15.38.04: Shutdown GameController

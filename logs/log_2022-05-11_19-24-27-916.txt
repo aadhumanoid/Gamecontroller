@@ -1,0 +1,13 @@
+2022.5.11-19.24.27: GC2 1.2
+2022.5.11-19.24.27: League = HL Kid
+2022.5.11-19.24.27: Play-off = false
+2022.5.11-19.24.27: Auto color change = false
+2022.5.11-19.24.27: Using broadcast address 255.255.255.255
+2022.5.11-19.24.27: 7-AL-'AADIYAAT vs 4-R-SCUAD
+2022.5.11-19.25.50: Ready
+2022.5.11-19.25.56: Set
+2022.5.11-19.26.00: Playing
+2022.5.11-19.26.39: Finished
+2022.5.11-19.26.58: Undo 3 States to Ready
+2022.5.11-19.27.22: Set
+2022.5.11-19.46.45: Shutdown GameController

@@ -1,0 +1,20 @@
+2023.6.11-20.13.18: GC2 1.2
+2023.6.11-20.13.18: League = HL Kid
+2023.6.11-20.13.18: Play-off = true
+2023.6.11-20.13.18: Auto color change = false
+2023.6.11-20.13.18: Using broadcast address 192.168.0.255
+2023.6.11-20.13.18: 2-BEEBOT PADJADJARAN vs 4-R-SCUAD
+2023.6.11-20.13.49: Ready
+2023.6.11-20.14.19: Set
+2023.6.11-20.14.27: Playing
+2023.6.11-20.15.34: Finished
+2023.6.11-20.15.39: Undo 3 States to Ready
+2023.6.11-20.15.39: Set
+2023.6.11-20.15.46: Undo 2 States to 2-BEEBOT PADJADJARAN vs 4-R-SCUAD
+2023.6.11-20.15.56: Ready
+2023.6.11-20.16.13: Set
+2023.6.11-20.16.18: Playing
+2023.6.11-20.17.51: Undo 1 States to Set
+2023.6.11-20.17.56: Undo 1 States to Ready
+2023.6.11-20.17.58: Undo 1 States to 2-BEEBOT PADJADJARAN vs 4-R-SCUAD
+2023.6.11-20.21.33: Shutdown GameController

@@ -1,0 +1,101 @@
+2022.6.19-22.09.57: GC2 1.2
+2022.6.19-22.09.57: League = HL Kid
+2022.6.19-22.09.57: Play-off = false
+2022.6.19-22.09.57: Auto color change = false
+2022.6.19-22.09.57: Using broadcast address 192.168.123.255
+2022.6.19-22.09.57: 4-R-SCUAD vs Invisibles
+2022.6.19-22.14.53: Ready
+2022.6.19-22.14.57: Set
+2022.6.19-22.15.01: Playing
+2022.6.19-22.16.05: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-22.16.23: Ready
+2022.6.19-22.16.25: Set
+2022.6.19-22.16.32: Playing
+2022.6.19-22.16.47: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-22.17.31: Ready
+2022.6.19-22.17.34: Set
+2022.6.19-22.17.36: Playing
+2022.6.19-22.19.54: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-22.41.32: Ready
+2022.6.19-22.41.35: Set
+2022.6.19-22.41.38: Playing
+2022.6.19-22.41.49: Undo 1 States to Set
+2022.6.19-22.42.02: Playing
+2022.6.19-22.42.06: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-22.58.51: Ready
+2022.6.19-22.58.52: Set
+2022.6.19-22.58.53: Playing
+2022.6.19-22.59.04: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.00.38: Ready
+2022.6.19-23.00.39: Set
+2022.6.19-23.00.41: Playing
+2022.6.19-23.11.16: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.11.50: Ready
+2022.6.19-23.12.20: Set
+2022.6.19-23.32.34: Playing
+2022.6.19-23.33.35: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.34.08: Ready
+2022.6.19-23.34.38: Set
+2022.6.19-23.38.01: Playing
+2022.6.19-23.38.58: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.39.15: Ready
+2022.6.19-23.39.21: Set
+2022.6.19-23.39.24: Playing
+2022.6.19-23.40.02: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.46.05: Ready
+2022.6.19-23.46.06: Set
+2022.6.19-23.46.07: Playing
+2022.6.19-23.46.11: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.46.56: Ready
+2022.6.19-23.46.57: Set
+2022.6.19-23.46.59: Playing
+2022.6.19-23.47.08: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.54.53: Ready
+2022.6.19-23.54.54: Set
+2022.6.19-23.55.09: Playing
+2022.6.19-23.55.21: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.19-23.55.29: Ready
+2022.6.19-23.55.30: Set
+2022.6.19-23.55.31: Playing
+2022.6.19-23.55.42: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.02.45: Ready
+2022.6.20-24.02.46: Set
+2022.6.20-24.02.48: Playing
+2022.6.20-24.02.53: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.02.55: Ready
+2022.6.20-24.02.55: Set
+2022.6.20-24.02.56: Playing
+2022.6.20-24.02.59: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.03.05: Ready
+2022.6.20-24.03.07: Set
+2022.6.20-24.03.09: Playing
+2022.6.20-24.03.29: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.03.31: Ready
+2022.6.20-24.03.32: Set
+2022.6.20-24.03.33: Playing
+2022.6.20-24.04.10: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.07.48: Ready
+2022.6.20-24.07.49: Set
+2022.6.20-24.07.50: Playing
+2022.6.20-24.07.55: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.12.27: Ready
+2022.6.20-24.12.28: Set
+2022.6.20-24.12.29: Playing
+2022.6.20-24.12.35: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.16.19: Ready
+2022.6.20-24.16.21: Set
+2022.6.20-24.16.21: Playing
+2022.6.20-24.16.26: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.27.22: Ready
+2022.6.20-24.27.23: Set
+2022.6.20-24.27.26: Playing
+2022.6.20-24.27.32: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.38.19: Ready
+2022.6.20-24.38.21: Set
+2022.6.20-24.38.22: Playing
+2022.6.20-24.38.28: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.38.32: Ready
+2022.6.20-24.38.34: Set
+2022.6.20-24.38.35: Playing
+2022.6.20-24.38.48: Undo 3 States to 4-R-SCUAD vs Invisibles
+2022.6.20-24.40.29: Shutdown GameController

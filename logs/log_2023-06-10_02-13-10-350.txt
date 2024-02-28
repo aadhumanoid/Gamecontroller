@@ -1,0 +1,6 @@
+2023.6.10-02.13.10: GC2 1.2
+2023.6.10-02.13.10: League = HL Kid
+2023.6.10-02.13.10: Play-off = false
+2023.6.10-02.13.10: Auto color change = false
+2023.6.10-02.13.10: Using broadcast address 255.255.255.255
+2023.6.10-02.13.10: 7-AL-'AADIYAAT vs 1-GLADIATOS

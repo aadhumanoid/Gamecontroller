@@ -1,0 +1,11 @@
+2022.6.20-19.41.22: GC2 1.2
+2022.6.20-19.41.22: League = HL Kid
+2022.6.20-19.41.22: Play-off = true
+2022.6.20-19.41.22: Auto color change = false
+2022.6.20-19.41.22: Using broadcast address 10.42.0.255
+2022.6.20-19.41.22: 4-R-SCUAD vs 2-BEEBOT PADJADJARAN
+2022.6.20-19.41.26: Ready
+2022.6.20-19.41.27: Set
+2022.6.20-19.41.32: Playing
+2022.6.20-19.42.36: Finished
+2022.6.20-19.45.06: 2nd Half

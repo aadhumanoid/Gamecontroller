@@ -1,0 +1,49 @@
+2022.6.15-22.29.37: GC2 1.2
+2022.6.15-22.29.37: League = HL Kid
+2022.6.15-22.29.37: Play-off = false
+2022.6.15-22.29.37: Auto color change = false
+2022.6.15-22.29.37: Using broadcast address 255.255.255.255
+2022.6.15-22.29.37: 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.15-22.29.41: Ready
+2022.6.15-22.30.11: Set
+2022.6.15-22.32.07: Undo 2 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.15-22.32.09: Ready
+2022.6.15-22.32.12: Set
+2022.6.15-22.32.13: Playing
+2022.6.15-22.34.23: Undo 3 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.15-22.34.28: Ready
+2022.6.15-22.34.30: Set
+2022.6.15-22.34.31: Playing
+2022.6.15-23.03.30: Undo 3 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.15-23.03.40: Ready
+2022.6.15-23.04.02: Set
+2022.6.15-23.04.03: Playing
+2022.6.15-23.04.16: Undo 3 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.15-23.05.24: Ready
+2022.6.15-23.05.25: Set
+2022.6.15-23.05.26: Playing
+2022.6.16-01.59.11: Finished
+2022.6.16-01.59.20: Undo 1 States to Playing
+2022.6.16-01.59.22: Undo 1 States to Set
+2022.6.16-01.59.29: Undo 2 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.16-02.00.06: Ready
+2022.6.16-02.00.12: Undo 1 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.16-02.00.27: Ready
+2022.6.16-02.00.29: Set
+2022.6.16-02.00.35: Undo 1 States to Ready
+2022.6.16-02.00.37: Undo 1 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.16-02.02.42: Ready
+2022.6.16-02.02.43: Set
+2022.6.16-02.02.44: Playing
+2022.6.16-02.02.45: Goal for Blue
+2022.6.16-02.02.45: Ready
+2022.6.16-02.02.50: Set
+2022.6.16-02.02.54: Playing
+2022.6.16-02.03.01: Goal for Blue
+2022.6.16-02.03.01: Ready
+2022.6.16-02.03.03: Finished
+2022.6.16-02.03.08: Undo 2 States to Playing
+2022.6.16-02.03.10: Undo 2 States to Goal for Blue
+2022.6.16-02.03.11: Undo 2 States to Set
+2022.6.16-02.03.11: Undo 2 States to 1-GLADIATOS vs 7-AL-'AADIYAAT
+2022.6.16-02.34.34: Shutdown GameController

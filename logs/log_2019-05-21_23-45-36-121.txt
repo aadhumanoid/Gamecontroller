@@ -1,0 +1,9 @@
+2019.5.21-23.45.36: GC2 1.2
+2019.5.21-23.45.36: League = HL Kid
+2019.5.21-23.45.36: Play-off = false
+2019.5.21-23.45.36: Auto color change = false
+2019.5.21-23.45.36: Using broadcast address 255.255.255.255
+2019.5.21-23.45.36: 4-R-SCUAD vs Invisibles
+2019.5.21-23.45.39: Ready
+2019.5.21-23.45.40: Set
+2019.5.21-23.45.40: Playing

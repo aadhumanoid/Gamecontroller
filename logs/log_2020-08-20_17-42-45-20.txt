@@ -1,0 +1,9 @@
+2020.8.20-17.42.45: GC2 1.2
+2020.8.20-17.42.45: League = HL Kid
+2020.8.20-17.42.45: Play-off = false
+2020.8.20-17.42.45: Auto color change = false
+2020.8.20-17.42.45: Using broadcast address 255.255.255.255
+2020.8.20-17.42.45: 3-DEVATA vs 2-BEEBOT PADJADJARAN
+2020.8.20-17.42.48: Ready
+2020.8.20-17.42.49: Set
+2020.8.20-17.42.50: Playing

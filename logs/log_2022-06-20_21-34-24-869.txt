@@ -1,0 +1,10 @@
+2022.6.20-21.34.24: GC2 1.2
+2022.6.20-21.34.24: League = HL Kid
+2022.6.20-21.34.24: Play-off = false
+2022.6.20-21.34.24: Auto color change = false
+2022.6.20-21.34.24: Using broadcast address 192.168.0.255
+2022.6.20-21.34.24: 4-R-SCUAD vs 6-ALFAROBI
+2022.6.20-21.38.44: Ready
+2022.6.20-21.38.45: Set
+2022.6.20-21.38.47: Playing
+2022.6.20-21.39.14: Undo 3 States to 4-R-SCUAD vs 6-ALFAROBI

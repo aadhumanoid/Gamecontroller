@@ -1,0 +1,7 @@
+2018.4.29-20.10.15: GC2 1.2
+2018.4.29-20.10.15: League = HL Kid
+2018.4.29-20.10.15: Play-off = false
+2018.4.29-20.10.15: Auto color change = false
+2018.4.29-20.10.15: Using broadcast address 255.255.255.255
+2018.4.29-20.10.15: 5-IF-DOROTA vs 3-ALFAROBI
+2018.4.29-20.10.24: Shutdown GameController

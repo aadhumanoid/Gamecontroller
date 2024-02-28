@@ -1,0 +1,13 @@
+2023.6.10-15.09.50: GC2 1.2
+2023.6.10-15.09.50: League = HL Kid
+2023.6.10-15.09.50: Play-off = false
+2023.6.10-15.09.50: Auto color change = false
+2023.6.10-15.09.50: Using broadcast address 192.168.0.255
+2023.6.10-15.09.50: 4-R-SCUAD vs 5-EWS BASCORRO
+2023.6.10-15.11.38: Ready
+2023.6.10-15.12.08: Set
+2023.6.10-15.12.26: Playing
+2023.6.10-15.14.17: Undo 3 States to 4-R-SCUAD vs 5-EWS BASCORRO
+2023.6.10-15.18.16: Ready
+2023.6.10-15.18.46: Set
+2023.6.10-15.18.52: Playing

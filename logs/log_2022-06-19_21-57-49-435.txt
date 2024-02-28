@@ -1,0 +1,12 @@
+2022.6.19-21.57.49: GC2 1.2
+2022.6.19-21.57.49: League = HL Kid
+2022.6.19-21.57.49: Play-off = false
+2022.6.19-21.57.49: Auto color change = false
+2022.6.19-21.57.49: Using broadcast address 255.255.255.255
+2022.6.19-21.57.49: 6-ALFAROBI vs Invisibles
+2022.6.19-21.58.47: Ready
+2022.6.19-21.59.17: Set
+2022.6.19-22.02.11: Playing
+2022.6.19-22.02.16: Finished
+2022.6.19-22.02.19: Undo 4 States to 6-ALFAROBI vs Invisibles
+2022.6.19-22.08.55: Shutdown GameController

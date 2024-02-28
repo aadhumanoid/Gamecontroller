@@ -1,0 +1,10 @@
+2023.6.03-23.35.14: GC2 1.2
+2023.6.03-23.35.14: League = HL Kid
+2023.6.03-23.35.14: Play-off = false
+2023.6.03-23.35.14: Auto color change = false
+2023.6.03-23.35.14: Using broadcast address 255.255.255.255
+2023.6.03-23.35.14: 3-DEVATA vs 5-EWS BASCORRO
+2023.6.03-23.35.16: Ready
+2023.6.03-23.35.19: Set
+2023.6.03-23.35.21: Undo 2 States to 3-DEVATA vs 5-EWS BASCORRO
+2023.6.03-23.35.24: Shutdown GameController

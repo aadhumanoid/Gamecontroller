@@ -1,0 +1,7 @@
+2023.6.11-01.52.54: GC2 1.2
+2023.6.11-01.52.54: League = HL Kid
+2023.6.11-01.52.54: Play-off = false
+2023.6.11-01.52.54: Auto color change = false
+2023.6.11-01.52.54: Using broadcast address 255.255.255.255
+2023.6.11-01.52.54: 7-AL-'AADIYAAT vs 1-GLADIATOS
+2023.6.11-20.04.29: Shutdown GameController

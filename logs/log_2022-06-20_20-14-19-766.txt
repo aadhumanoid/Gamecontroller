@@ -1,0 +1,18 @@
+2022.6.20-20.14.19: GC2 1.2
+2022.6.20-20.14.19: League = HL Kid
+2022.6.20-20.14.19: Play-off = false
+2022.6.20-20.14.19: Auto color change = true
+2022.6.20-20.14.19: Using broadcast address 192.168.0.255
+2022.6.20-20.14.19: 4-R-SCUAD vs 1-GLADIATOS
+2022.6.20-20.14.25: Ready
+2022.6.20-20.14.55: Set
+2022.6.20-20.15.05: Playing
+2022.6.20-20.15.09: Finished
+2022.6.20-20.15.25: Undo 1 States to Playing
+2022.6.20-20.15.32: Out by Red
+2022.6.20-20.15.34: Out by Blue
+2022.6.20-20.15.36: Out by Blue
+2022.6.20-20.15.56: Finished
+2022.6.20-20.16.24: 2nd Half
+2022.6.20-20.16.27: Timeout Red
+2022.6.20-20.16.27: Initial

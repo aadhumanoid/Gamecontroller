@@ -1,0 +1,11 @@
+2022.6.16-16.51.08: GC2 1.2
+2022.6.16-16.51.08: League = HL Kid
+2022.6.16-16.51.08: Play-off = false
+2022.6.16-16.51.08: Auto color change = true
+2022.6.16-16.51.08: Using broadcast address 255.255.255.255
+2022.6.16-16.51.08: 1-GLADIATOS vs 2-BEEBOT PADJADJARAN
+2022.6.16-16.51.23: Ready
+2022.6.16-16.51.29: Set
+2022.6.16-16.51.32: Playing
+2022.6.16-16.52.13: Undo 3 States to 1-GLADIATOS vs 2-BEEBOT PADJADJARAN
+2022.6.16-16.52.43: Shutdown GameController

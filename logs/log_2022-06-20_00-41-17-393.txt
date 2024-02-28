@@ -1,0 +1,6 @@
+2022.6.20-24.41.17: GC2 1.2
+2022.6.20-24.41.17: League = HL Kid
+2022.6.20-24.41.17: Play-off = false
+2022.6.20-24.41.17: Auto color change = false
+2022.6.20-24.41.17: Using broadcast address 255.255.255.255
+2022.6.20-24.41.17: 4-R-SCUAD vs 5-EWS BASCORRO

@@ -1,0 +1,8 @@
+2022.6.20-20.12.16: GC2 1.2
+2022.6.20-20.12.16: League = HL Kid
+2022.6.20-20.12.16: Play-off = false
+2022.6.20-20.12.16: Auto color change = false
+2022.6.20-20.12.16: Using broadcast address 192.168.0.255
+2022.6.20-20.12.16: 7-AL-'AADIYAAT vs 4-R-SCUAD
+2022.6.20-20.12.18: Ready
+2022.6.20-20.12.20: Set
